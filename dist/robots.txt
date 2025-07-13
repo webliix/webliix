@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webliix.in/sitemap.xml

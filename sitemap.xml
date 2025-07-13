@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://webliix.in/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/about</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services</loc>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/portfolio</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/contact</loc>
+    <priority>0.85</priority>
+  </url>
+  <!-- Service Subpages -->
+  <url>
+    <loc>https://webliix.in/services/website</loc>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/static-websites</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/dynamic-websites</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/ecommerce-websites</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/seo-service</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/social-media</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/branding</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/gmb-setup</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/website-maintenance</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/services/brand-launchkit</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://webliix.in/terms</loc>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/privacy</loc>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://webliix.in/refund</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Case Studies -->
+  <url>
+    <loc>https://webliix.in/case-studies/auradrishti</loc>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
